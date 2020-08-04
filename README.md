@@ -79,7 +79,7 @@ AppleHealthKit.initHealthKit(options: Object, (err: string, results: Object) => 
           return;
         }
         console.log(allergies[0])
-    }
+    });
 
  });
 ```
